@@ -1382,6 +1382,7 @@ Google lens is not too user friendly for investigations. But this tool will help
 | [Remove.bg](https://www.remove.bg/) | Remove background from image with AI |
 | [Watermarkremover](https://www.watermarkremover.io/) | Remove watermark from image with AI |
 | [Instruct Pix2pix](https://huggingface.co/spaces/timbrooks/instruct-pix2pix) | Image editing with prompt|
+| https://iconscout.com/ai/background-remover | Effortlessly remove backgrounds for free. Perfect for enhancing your designs across websites, mobile apps, social media posts, presentations, and more.
 
 ### [](#other-image-search-engines)Other Image Search Engines
 
